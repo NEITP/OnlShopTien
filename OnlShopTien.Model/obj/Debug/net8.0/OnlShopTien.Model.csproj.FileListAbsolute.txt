@@ -10,3 +10,16 @@ C:\Users\dinhq\source\repos\OnlShopTien\OnlShopTien.Model\obj\Debug\net8.0\OnlSh
 C:\Users\dinhq\source\repos\OnlShopTien\OnlShopTien.Model\obj\Debug\net8.0\refint\OnlShopTien.Model.dll
 C:\Users\dinhq\source\repos\OnlShopTien\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.pdb
 C:\Users\dinhq\source\repos\OnlShopTien\OnlShopTien.Model\obj\Debug\net8.0\ref\OnlShopTien.Model.dll
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\bin\Debug\net8.0\OnlShopTien.Model.deps.json
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\bin\Debug\net8.0\OnlShopTien.Model.dll
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\bin\Debug\net8.0\OnlShopTien.Model.pdb
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.csproj.AssemblyReference.cache
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.AssemblyInfoInputs.cache
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.AssemblyInfo.cs
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.csproj.CoreCompileInputs.cache
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.sourcelink.json
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.dll
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\refint\OnlShopTien.Model.dll
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\OnlShopTien.Model.pdb
+C:\Users\dinhq\source\repos\BCTTCode\OnlShopTien.Model\obj\Debug\net8.0\ref\OnlShopTien.Model.dll

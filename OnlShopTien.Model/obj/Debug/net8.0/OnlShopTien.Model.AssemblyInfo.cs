@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlShopTien.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c276a6c32b895a471b3f1a713fe92f36e93c4d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8839684b9a90cd72ae13589bb1a1ba19061e458")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlShopTien.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlShopTien.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
