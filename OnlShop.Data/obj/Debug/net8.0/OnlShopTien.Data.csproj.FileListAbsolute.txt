@@ -1,0 +1,15 @@
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\bin\Debug\net8.0\OnlShopTien.Data.deps.json
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\bin\Debug\net8.0\OnlShopTien.Data.dll
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\bin\Debug\net8.0\OnlShopTien.Data.pdb
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\bin\Debug\net8.0\OnlShopTien.Common.dll
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\bin\Debug\net8.0\OnlShopTien.Common.pdb
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\OnlShopTien.Data.csproj.AssemblyReference.cache
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\OnlShopTien.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\OnlShopTien.Data.AssemblyInfoInputs.cache
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\OnlShopTien.Data.AssemblyInfo.cs
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\OnlShopTien.Data.csproj.CoreCompileInputs.cache
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\OnlShopT.65A90FA1.Up2Date
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\OnlShopTien.Data.dll
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\refint\OnlShopTien.Data.dll
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\OnlShopTien.Data.pdb
+C:\Users\dinhq\source\repos\OnlShopTien\OnlShop.Data\obj\Debug\net8.0\ref\OnlShopTien.Data.dll

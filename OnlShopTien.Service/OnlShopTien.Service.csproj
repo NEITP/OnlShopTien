@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnlShop.Data\OnlShopTien.Data.csproj" />
+    <ProjectReference Include="..\OnlShopTien.Common\OnlShopTien.Common.csproj" />
+    <ProjectReference Include="..\OnlShopTien.Model\OnlShopTien.Model.csproj" />
+  </ItemGroup>
+
+</Project>
