@@ -11,5 +11,7 @@ namespace OnlShopTien.Model.Models
 
         [Required]
         public string Name { get; set; }
+
+        public virtual IEnumerable<Menu> Menu { get; set; }
     }
 }

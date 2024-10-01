@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace OnlShopTien.Model.Models
 {
     [Table("Menu")]
-    internal class Menu
+    public class Menu
     {
         [Key]
         public int Id { get; set; }
