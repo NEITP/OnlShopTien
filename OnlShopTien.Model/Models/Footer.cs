@@ -7,6 +7,7 @@ namespace OnlShopTien.Model.Models
     public class Footer
     {
         [Key]
+        [DatabaseGenerated (DatabaseGeneratedOption.Identity)]
         public string Id { get; set; }
 
         [Required]
